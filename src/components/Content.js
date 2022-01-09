@@ -4,7 +4,7 @@ import pras from '../images/Prasiddhi.jpg'
 import krut from '../images/Krutika.jpg'
 import momos from '../images/Momos.jpeg'
 import mirchi from '../images/Mirchi.jpeg'
-import thali from '../images/vegThali.jpeg'
+
 
 const Content = () => {
     return (
